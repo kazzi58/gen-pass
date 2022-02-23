@@ -1,0 +1,79 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+            <item index="1" class="java.lang.String" itemvalue="pywin32" />
+            <item index="2" class="java.lang.String" itemvalue="PyInstaller" />
+            <item index="3" class="java.lang.String" itemvalue="PyNaCl" />
+            <item index="4" class="java.lang.String" itemvalue="cffi" />
+            <item index="5" class="java.lang.String" itemvalue="cryptography" />
+            <item index="6" class="java.lang.String" itemvalue="cx-Oracle" />
+            <item index="7" class="java.lang.String" itemvalue="numpy" />
+            <item index="8" class="java.lang.String" itemvalue="bcrypt" />
+            <item index="9" class="java.lang.String" itemvalue="psutil" />
+            <item index="10" class="java.lang.String" itemvalue="pyinstaller" />
+            <item index="11" class="java.lang.String" itemvalue="PyAutoIt" />
+            <item index="12" class="java.lang.String" itemvalue="autoit" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="autoit" />
+          <option value="employee.models.Company.objects" />
+          <option value="employee.models.Company.DoesNotExist" />
+          <option value="employee.models.BloodGroup.objects" />
+          <option value="employee.models.BloodGroup.DoesNotExist" />
+          <option value="employee.models.Branch.objects" />
+          <option value="employee.models.Branch.DoesNotExist" />
+          <option value="employee.models.Role.objects" />
+          <option value="employee.models.Role.DoesNotExist" />
+          <option value="django.db.models.fields.CharField.__add__" />
+          <option value="employee.models.Employee.objects" />
+          <option value="employee.models.Country.objects" />
+          <option value="employee.models.Country.DoesNotExist" />
+          <option value="employee.models.Employee.DoesNotExist" />
+          <option value="employee.models.City.objects" />
+          <option value="employee.models.City.DoesNotExist" />
+          <option value="employee.models.Gender.objects" />
+          <option value="employee.models.Gender.DoesNotExist" />
+          <option value="employee.models.Department.objects" />
+          <option value="employee.models.Department.DoesNotExist" />
+          <option value="employee.models.Section.objects" />
+          <option value="employee.models.Section.DoesNotExist" />
+          <option value="leave_management.models.EmployeeLeaveBalance.objects" />
+          <option value="leave_management.models.EmployeeLeaveBalance.DoesNotExist" />
+          <option value="leave_management.models.LeaveMailFormat.objects" />
+          <option value="leave_management.models.LeaveMailFormat.DoesNotExist" />
+          <option value="leave_management.models.LeaveApplication.objects" />
+          <option value="leave_management.models.LeaveApplication.DoesNotExist" />
+          <option value="leave_management.models.LeaveApprovalChainSteps.objects" />
+          <option value="leave_management.models.LeaveApprovalChainSteps.DoesNotExist" />
+          <option value="leave_management.models.LeaveApprovalHistory.objects" />
+          <option value="leave_management.models.LeaveApprovalHistory.DoesNotExist" />
+          <option value="leave_management.models.LeavePolicy.DoesNotExist" />
+          <option value="leave_management.models.LeavePolicy.objects" />
+          <option value="leave_management.models.LeaveApprovalFlow.objects" />
+          <option value="leave_management.models.LeaveApprovalFlow.DoesNotExist" />
+          <option value="leave_management.models.CompanyCalender.objects" />
+          <option value="leave_management.models.CompanyCalender.DoesNotExist" />
+          <option value="pages.views.homePageView.as_view" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
